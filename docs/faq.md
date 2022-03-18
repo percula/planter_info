@@ -17,4 +17,4 @@ title: FAQ
 </details>
 
 ## What platforms is Planter available for?
-Planter is currently available for Android and iOS. Web support is coming soon!
+Planter is currently available for Android, iOS, and web.
