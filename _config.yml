@@ -6,6 +6,8 @@ remote_theme: pmarsceill/just-the-docs
 logo: "/images/icon_and_logo_no_shadow.svg"
 # Aux links for the upper right navigation
 aux_links:
+  "Growing Guide":
+    - "http://blog.planter.garden"
   "Get Planter":
     - "http://planter.garden"
 color_scheme: planter
