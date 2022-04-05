@@ -1,10 +1,12 @@
 ---
 permalink: /oops
 published: true
+nav_exclude: true
 title: Bugs in your garden 🐛 ... and Planter. Oops!
 ---
+# Bugs in your garden 🐛 ... and Planter. Oops!
 
-# What happened?
+## What happened?
 To release the web version (https://planter.garden), I changed a whole bunch of code behind-the-scenes. 
 Unfortunately, a bug made it's way into the 3.1.0 iOS release that prevented gardeners from opening their
 gardens. This bug has been fixed in 3.1.1 and is now available in the App Store for download. You'll need to 
