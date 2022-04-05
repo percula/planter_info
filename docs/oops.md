@@ -18,3 +18,6 @@ Many of you reached out to me via the "report a bug" tool in the app. Thank you!
 catch and fix this bug within 24 hours thanks to you. Unfortunately, the new update also included
 a new version of the bug reporting tool that doesn't ask for emails, so my apologies for not
 responding to you like I usually do. I'm fixing _that_ in the next update.
+
+Cheers and happy gardening 🌱,
+Peter
