@@ -32,7 +32,7 @@ Keep notes for individual plants or the whole garden.
 
 Events are similar to notes, except you can add a value to the note, such as watering 1 inch or starting 6 tomato seeds inside.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MtkcpjABjyI&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MtkcpjABjyI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Custom backgrounds
@@ -46,4 +46,4 @@ You can add raised beds, pots, hoses, and more. You can also change the backgrou
 For non-symmetric foregrounds, tap the rotate icon to change it to the desired orientation:
 <img src="../images/foreground_rotate.webp" width="300">
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AjfhkyeWzsk&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AjfhkyeWzsk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
