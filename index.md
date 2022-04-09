@@ -18,7 +18,7 @@ Visit the [Getting Started]({% link docs/getting-started.md %}) guide, use the s
 - [Frequently Asked Questions]({% link docs/faq.md %})
 
 ## Have a plant or feature suggestion? 
-Use the "Plant and Feature Suggestion" tool in Settings. If someone has already suggested it, up-vote it so we can better prioritize it.
+Use the "Plant and Feature Suggestion" tool in Settings or [view on the web](https://planter.garden/requests). If someone has already suggested it, up-vote it 🔼 so we can better prioritize it.
 
 ## Notice a bug?
 Use the "Report a bug" option in Settings.
