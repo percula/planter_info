@@ -2,7 +2,7 @@ title: Planter
 description: Documentation for Planter
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://info.planter.garden"
-remote_theme: pmarsceill/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 logo: "/images/icon_and_logo_no_shadow.svg"
 # Aux links for the upper right navigation
 aux_links:

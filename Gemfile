@@ -5,4 +5,4 @@ source "https://rubygems.org"
 # gem "rails"
 
 #gem "jekyll", "~> 4.2"
-gem "github-pages", "~> 225", group: :jekyll_plugins
+gem "github-pages", "~> 226", group: :jekyll_plugins
