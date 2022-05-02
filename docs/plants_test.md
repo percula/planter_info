@@ -26,7 +26,9 @@ If the app does not have a plant you are planting, you can add a custom plant:
 5. Optionally choose an icon and image.
 5. Tap "Save".
 
-<iframe width="160" height="115" src="https://www.youtube-nocookie.com/embed/PI3BeHTM2QU?rel=0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<div class="iframeVideo">
+    <iframe src="https://www.youtube.com/embed/PI3BeHTM2QU" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Editing plants
 You can customize any of the information on existing plants, including the icon and image:
