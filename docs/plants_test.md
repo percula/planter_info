@@ -26,6 +26,7 @@ If the app does not have a plant you are planting, you can add a custom plant:
 5. Optionally choose an icon and image.
 5. Tap "Save".
 
+{{< youtube PI3BeHTM2QU >}}
 
 ## Editing plants
 You can customize any of the information on existing plants, including the icon and image:
