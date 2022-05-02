@@ -26,8 +26,9 @@ You can plant multiple varieties in the same garden. Since there are dozens of v
 Planter shows your favorite and most-recent varieties in a handy drop-down menu. Simply favorite the 
 plant varieties that you have in your garden. Custom varieties are automatically favorited for you.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LCoqtqbCj44?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div class="iframeVideo">
+    <iframe src="https://www.youtube-nocookie.com/embed/LCoqtqbCj44?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Creating custom varieties
 If the app does not have a variety you are planting, you can add a custom variety:
@@ -39,4 +40,6 @@ If the app does not have a variety you are planting, you can add a custom variet
 5. Optionally choose an icon and image.
 5. Tap "Save".
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qQOHxdTF7E0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="iframeVideo">
+    <iframe src="https://www.youtube-nocookie.com/embed/qQOHxdTF7E0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

@@ -29,7 +29,7 @@ Red circles mean the adjacent plants are combative and shouldn't be planted. The
 
 Yellow circles mean that some varieties of the plants are companions while others are combative.
 
-<img src="../images/compatibility.webp" max-width="100%">
+<img src="../images/compatibility.webp" width="100%">
 
 ## Spacing indicators
 
