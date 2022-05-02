@@ -5,3 +5,11 @@
         height: auto;
     }
 }
+
+@media screen and (max-width: 400px) {
+    iframe {
+        max-width: 50%;
+        width: auto;
+        height: auto;
+    }
+}
