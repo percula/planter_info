@@ -26,7 +26,7 @@ If the app does not have a plant you are planting, you can add a custom plant:
 5. Optionally choose an icon and image.
 5. Tap "Save".
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PI3BeHTM2QU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PI3BeHTM2QU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Editing plants
 You can customize any of the information on existing plants, including the icon and image:
@@ -43,7 +43,7 @@ You can customize any of the information on existing plants, including the icon 
 ## I don't see zucchini, green onions, or red peppers? Where are they?
 These are listed in the [varieties]({% link docs/varieties.md %}) tab of the plant.
 
-<img src="../images/variety.webp" max-width="300px">
+#<img src="../images/variety.webp" max-width="300px">
 
 ## Why doesn't Planter have {name of plant}?
 
